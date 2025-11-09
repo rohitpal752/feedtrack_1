@@ -1,0 +1,56 @@
+Company,Reviewer,Department,Rating,Review,Sentiment,Date,Source
+Nykaa,Nikhil,HR,2.0,Politics at senior management level.,Negative,2024-11-20,AmbitionBox
+Nykaa,Meena,Sales,4.2,Excellent learning in beauty and retail.,Positive,2024-10-17,Glassdoor
+Nykaa,Vikram,Sales,2.1,Politics at senior management level.,Negative,2024-08-04,Indeed
+Nykaa,Gauri,E-commerce,3.1,Good exposure but slow decision-making.,Neutral,2024-10-19,AmbitionBox
+Nykaa,Ankit,HR,3.9,Workload depends on product season.,Neutral,2024-09-16,Glassdoor
+Nykaa,Ajay,E-commerce,4.0,Good exposure but slow decision-making.,Neutral,2024-08-31,Indeed
+Nykaa,Karan,Design,4.8,Exposure to brand partnerships and marketing.,Positive,2024-08-30,Glassdoor
+Nykaa,Divya,E-commerce,4.7,Friendly culture and flexible hours.,Positive,2024-10-21,Glassdoor
+Nykaa,Preeti,Marketing,5.0,Excellent learning in beauty and retail.,Positive,2024-11-29,AmbitionBox
+Nykaa,Meena,E-commerce,4.6,Excellent learning in beauty and retail.,Positive,2024-11-05,Glassdoor
+Nykaa,Aarav,Design,2.4,Limited appreciation for extra work.,Negative,2024-08-11,Indeed
+Nykaa,Manish,Sales,1.9,Politics at senior management level.,Negative,2024-08-01,AmbitionBox
+Nykaa,Kritika,E-commerce,4.1,Empowering environment for women professionals.,Positive,2024-08-09,Indeed
+Nykaa,Pooja,Marketing,1.8,Limited appreciation for extra work.,Negative,2024-11-12,AmbitionBox
+Nykaa,Aman,Marketing,3.9,Workload depends on product season.,Neutral,2024-09-12,AmbitionBox
+Nykaa,Chirag,Design,2.6,Limited appreciation for extra work.,Negative,2024-10-23,AmbitionBox
+Nykaa,Chirag,Sales,2.1,High pressure during sale campaigns.,Negative,2024-09-27,AmbitionBox
+Nykaa,Ritu,Design,4.9,Friendly culture and flexible hours.,Positive,2024-09-01,Glassdoor
+Nykaa,Kavya,Design,2.1,No structured promotion system.,Negative,2024-08-12,Glassdoor
+Nykaa,Karan,Marketing,4.8,Empowering environment for women professionals.,Positive,2024-11-18,Glassdoor
+Nykaa,Ritu,HR,3.7,Average growth pace but stable job.,Neutral,2024-08-28,Glassdoor
+Nykaa,Kritika,E-commerce,4.7,Friendly culture and flexible hours.,Positive,2024-11-06,Glassdoor
+Nykaa,Rachit,Sales,4.4,Friendly culture and flexible hours.,Positive,2024-10-03,Glassdoor
+Nykaa,Avni,HR,2.3,High pressure during sale campaigns.,Negative,2024-10-14,AmbitionBox
+Nykaa,Kunal,Sales,3.6,Pay slightly below industry standards.,Neutral,2024-08-07,Indeed
+Nykaa,Aditi,E-commerce,3.6,Sometimes coordination between teams is poor.,Neutral,2024-11-21,Indeed
+Nykaa,Anvi,Design,3.3,Good exposure but slow decision-making.,Neutral,2024-11-12,Indeed
+Nykaa,Alok,E-commerce,2.5,Long hours without overtime benefits.,Negative,2024-08-05,Indeed
+Nykaa,Nikhil,E-commerce,1.8,Limited appreciation for extra work.,Negative,2024-10-06,Indeed
+Nykaa,Kunal,E-commerce,4.8,Exposure to brand partnerships and marketing.,Positive,2024-11-26,Indeed
+Nykaa,Karan,HR,3.6,Good exposure but slow decision-making.,Neutral,2024-09-16,Glassdoor
+Nykaa,Aman,E-commerce,4.3,Friendly culture and flexible hours.,Positive,2024-11-25,AmbitionBox
+Nykaa,Dev,HR,1.9,High pressure during sale campaigns.,Negative,2024-08-07,Glassdoor
+Nykaa,Diya,Design,3.4,Good exposure but slow decision-making.,Neutral,2024-10-18,AmbitionBox
+Nykaa,Rishabh,HR,5.0,Exposure to brand partnerships and marketing.,Positive,2024-08-06,Indeed
+Nykaa,Avni,Design,3.5,Sometimes coordination between teams is poor.,Neutral,2024-10-22,Indeed
+Nykaa,Nikhil,E-commerce,4.0,Empowering environment for women professionals.,Positive,2024-11-14,Indeed
+Nykaa,Ankit,HR,4.6,Exposure to brand partnerships and marketing.,Positive,2024-08-28,AmbitionBox
+Nykaa,Ritu,E-commerce,2.8,Long hours without overtime benefits.,Negative,2024-08-21,AmbitionBox
+Nykaa,Priya,Marketing,3.5,Sometimes coordination between teams is poor.,Neutral,2024-10-05,Glassdoor
+Nykaa,Ajay,Sales,3.8,Average growth pace but stable job.,Neutral,2024-08-10,Indeed
+Nykaa,Varun,HR,4.2,Friendly culture and flexible hours.,Positive,2024-09-14,Indeed
+Nykaa,Neha,Design,4.8,Exposure to brand partnerships and marketing.,Positive,2024-09-18,Indeed
+Nykaa,Karan,Marketing,3.9,Sometimes coordination between teams is poor.,Neutral,2024-09-04,Glassdoor
+Nykaa,Aditi,E-commerce,2.5,Politics at senior management level.,Negative,2024-10-22,AmbitionBox
+Nykaa,Kunal,Design,4.7,Empowering environment for women professionals.,Positive,2024-08-01,Glassdoor
+Nykaa,Gauri,E-commerce,2.4,High pressure during sale campaigns.,Negative,2024-11-12,Indeed
+Nykaa,Meena,HR,3.3,Workload depends on product season.,Neutral,2024-09-15,Indeed
+Nykaa,Aarav,HR,1.8,High pressure during sale campaigns.,Negative,2024-08-29,Indeed
+Nykaa,Manish,Marketing,4.4,Creative team and growth-focused leaders.,Positive,2024-08-08,Indeed
+Nykaa,Ankit,Design,3.1,Good exposure but slow decision-making.,Neutral,2024-10-15,AmbitionBox
+Nykaa,Neha,Marketing,4.5,Exposure to brand partnerships and marketing.,Positive,2024-09-26,AmbitionBox
+Nykaa,Aarav,Sales,5.0,Friendly culture and flexible hours.,Positive,2024-08-20,AmbitionBox
+Nykaa,Arjun,Design,3.3,Good exposure but slow decision-making.,Neutral,2024-11-13,Indeed
+Nykaa,Rohit,Sales,2.4,Politics at senior management level.,Negative,2024-09-05,Glassdoor

@@ -1,0 +1,56 @@
+Company,Reviewer,Department,Rating,Review,Sentiment,Date,Source
+Razorpay,Shreya,Finance,4.1,Excellent learning for payment domain.,Positive,2024-08-02,Glassdoor
+Razorpay,Bhavya,Finance,4.7,Work-life balance is better than most fintechs.,Positive,2024-08-30,AmbitionBox
+Razorpay,Yash,Compliance,2.6,Pay not as high as competition.,Negative,2024-09-16,Indeed
+Razorpay,Anvi,Compliance,3.3,Workload depends on sprint cycles.,Neutral,2024-11-26,Indeed
+Razorpay,Aditi,Finance,3.2,High expectations during product releases.,Neutral,2024-09-06,Glassdoor
+Razorpay,Yash,Finance,3.9,Limited internal mobility.,Neutral,2024-09-10,Glassdoor
+Razorpay,Rahul,Compliance,2.5,Too many meetings reduce productivity.,Negative,2024-11-12,AmbitionBox
+Razorpay,Isha,Finance,4.2,Work-life balance is better than most fintechs.,Positive,2024-10-06,AmbitionBox
+Razorpay,Nisha,HR,2.1,Too many meetings reduce productivity.,Negative,2024-09-15,AmbitionBox
+Razorpay,Aman,Finance,3.3,Good work but average compensation.,Neutral,2024-11-10,Indeed
+Razorpay,Arjun,Finance,5.0,Talented engineers and good mentorship.,Positive,2024-09-16,AmbitionBox
+Razorpay,Anvi,Finance,4.0,Workload depends on sprint cycles.,Neutral,2024-09-22,Indeed
+Razorpay,Karan,Finance,2.4,Too many meetings reduce productivity.,Negative,2024-10-02,AmbitionBox
+Razorpay,Yash,Finance,3.3,Good work but average compensation.,Neutral,2024-09-20,AmbitionBox
+Razorpay,Tanvi,Finance,3.6,Workload depends on sprint cycles.,Neutral,2024-11-06,AmbitionBox
+Razorpay,Sneha,Engineering,4.4,Work-life balance is better than most fintechs.,Positive,2024-08-20,Indeed
+Razorpay,Nikhil,Finance,4.1,Talented engineers and good mentorship.,Positive,2024-10-23,Indeed
+Razorpay,Rohit,Engineering,4.2,Talented engineers and good mentorship.,Positive,2024-09-27,AmbitionBox
+Razorpay,Preeti,Finance,4.5,Amazing fintech culture with modern tech stack.,Positive,2024-11-12,Glassdoor
+Razorpay,Nikhil,HR,3.5,Limited internal mobility.,Neutral,2024-08-16,Glassdoor
+Razorpay,Kunal,Product,4.9,Excellent learning for payment domain.,Positive,2024-11-07,AmbitionBox
+Razorpay,Sarthak,Finance,4.7,Collaborative team and transparent leadership.,Positive,2024-10-17,Indeed
+Razorpay,Simran,Compliance,4.9,Talented engineers and good mentorship.,Positive,2024-09-12,Glassdoor
+Razorpay,Anvi,Engineering,3.5,Workload depends on sprint cycles.,Neutral,2024-09-30,Indeed
+Razorpay,Sneha,Finance,4.6,Excellent learning for payment domain.,Positive,2024-11-05,Indeed
+Razorpay,Anvi,Engineering,3.4,Workload depends on sprint cycles.,Neutral,2024-10-17,Indeed
+Razorpay,Kavya,Finance,3.9,Decent growth but long hours during audits.,Neutral,2024-09-11,AmbitionBox
+Razorpay,Avni,Product,3.9,Workload depends on sprint cycles.,Neutral,2024-08-19,Indeed
+Razorpay,Ritu,Finance,4.7,Collaborative team and transparent leadership.,Positive,2024-09-15,Glassdoor
+Razorpay,Riya,HR,4.1,Talented engineers and good mentorship.,Positive,2024-08-16,Glassdoor
+Razorpay,Mohit,Finance,4.3,Talented engineers and good mentorship.,Positive,2024-11-27,Glassdoor
+Razorpay,Bhavya,Finance,4.3,Excellent learning for payment domain.,Positive,2024-10-30,Indeed
+Razorpay,Sarthak,Finance,2.2,Pay not as high as competition.,Negative,2024-11-04,Indeed
+Razorpay,Pooja,HR,4.5,Excellent learning for payment domain.,Positive,2024-08-24,Glassdoor
+Razorpay,Harsh,Product,3.4,High expectations during product releases.,Neutral,2024-10-02,AmbitionBox
+Razorpay,Shreya,Compliance,2.5,Constant pressure during regulatory deadlines.,Negative,2024-09-27,Indeed
+Razorpay,Ritu,Finance,1.9,Pay not as high as competition.,Negative,2024-11-17,Glassdoor
+Razorpay,Trisha,Finance,3.4,Workload depends on sprint cycles.,Neutral,2024-10-17,AmbitionBox
+Razorpay,Dev,Engineering,4.2,Talented engineers and good mentorship.,Positive,2024-08-27,AmbitionBox
+Razorpay,Sarthak,Finance,4.5,Talented engineers and good mentorship.,Positive,2024-08-27,Glassdoor
+Razorpay,Priya,HR,3.4,Decent growth but long hours during audits.,Neutral,2024-08-26,Indeed
+Razorpay,Anvi,Finance,2.3,Micromanagement in some teams.,Negative,2024-11-11,Glassdoor
+Razorpay,Ankit,Product,2.1,Too many meetings reduce productivity.,Negative,2024-09-25,AmbitionBox
+Razorpay,Sarthak,Engineering,2.4,Constant pressure during regulatory deadlines.,Negative,2024-08-29,Glassdoor
+Razorpay,Simran,Finance,4.5,Work-life balance is better than most fintechs.,Positive,2024-11-09,AmbitionBox
+Razorpay,Vikram,Finance,2.0,Constant pressure during regulatory deadlines.,Negative,2024-10-27,Glassdoor
+Razorpay,Rohit,Product,3.1,Limited internal mobility.,Neutral,2024-10-26,AmbitionBox
+Razorpay,Nikhil,Product,4.3,Excellent learning for payment domain.,Positive,2024-09-12,Glassdoor
+Razorpay,Isha,Engineering,4.1,Talented engineers and good mentorship.,Positive,2024-09-20,Indeed
+Razorpay,Sneha,Product,3.4,Limited internal mobility.,Neutral,2024-11-24,Indeed
+Razorpay,Mohit,HR,4.5,Collaborative team and transparent leadership.,Positive,2024-11-03,AmbitionBox
+Razorpay,Arjun,Compliance,4.3,Collaborative team and transparent leadership.,Positive,2024-11-24,Indeed
+Razorpay,Karan,Compliance,3.1,Good work but average compensation.,Neutral,2024-10-08,AmbitionBox
+Razorpay,Rachit,Finance,2.1,Workload spikes without proper planning.,Negative,2024-09-21,Glassdoor
+Razorpay,Nisha,Product,3.0,Pay not as high as competition.,Negative,2024-11-21,Indeed

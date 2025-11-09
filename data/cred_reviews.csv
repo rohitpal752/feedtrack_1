@@ -1,0 +1,56 @@
+Company,Reviewer,Department,Rating,Review,Sentiment,Date,Source
+CRED,Ajay,Marketing,2.7,Very long hours during launches.,Negative,2024-08-27,Indeed
+CRED,Preeti,Marketing,2.1,Very long hours during launches.,Negative,2024-10-02,Glassdoor
+CRED,Gauri,Marketing,2.1,Biased management decisions.,Negative,2024-11-08,AmbitionBox
+CRED,Ananya,Tech,4.1,Freedom to innovate and own projects.,Positive,2024-10-14,Glassdoor
+CRED,Aditi,Tech,1.9,Very long hours during launches.,Negative,2024-09-24,AmbitionBox
+CRED,Ajay,Design,2.3,Biased management decisions.,Negative,2024-11-12,Glassdoor
+CRED,Mohit,Marketing,3.5,Limited clarity in cross-functional roles.,Neutral,2024-11-17,AmbitionBox
+CRED,Shreya,Marketing,3.9,High expectations but great exposure.,Neutral,2024-08-05,Glassdoor
+CRED,Pooja,Marketing,4.5,Freedom to innovate and own projects.,Positive,2024-08-25,Glassdoor
+CRED,Aditi,Tech,3.1,High expectations but great exposure.,Neutral,2024-08-28,Indeed
+CRED,Rohit,HR,3.7,"Challenging goals, but rewarding.",Neutral,2024-08-24,AmbitionBox
+CRED,Karan,Design,4.4,Talented colleagues and transparent leadership.,Positive,2024-09-07,Indeed
+CRED,Neha,Tech,3.6,Amazing peers but average work-life balance.,Neutral,2024-09-15,Indeed
+CRED,Ankit,HR,5.0,Top-notch perks and competitive pay.,Positive,2024-08-08,Glassdoor
+CRED,Ajay,Marketing,4.9,Freedom to innovate and own projects.,Positive,2024-10-15,Indeed
+CRED,Sneha,Finance,4.8,Talented colleagues and transparent leadership.,Positive,2024-10-13,Indeed
+CRED,Nikhil,Design,2.7,Biased management decisions.,Negative,2024-10-05,Glassdoor
+CRED,Tanvi,Tech,3.2,Workload can get intense near deadlines.,Neutral,2024-09-07,Indeed
+CRED,Karan,HR,2.7,Very long hours during launches.,Negative,2024-08-21,AmbitionBox
+CRED,Shreya,Marketing,2.9,Very long hours during launches.,Negative,2024-11-21,Indeed
+CRED,Rishabh,HR,4.5,Freedom to innovate and own projects.,Positive,2024-10-01,Glassdoor
+CRED,Aditi,HR,4.2,Inspiring CEO and open communication.,Positive,2024-10-30,AmbitionBox
+CRED,Ankit,Design,2.8,Micromanagement in few teams.,Negative,2024-09-30,Glassdoor
+CRED,Aman,HR,1.8,Biased management decisions.,Negative,2024-10-19,Glassdoor
+CRED,Priya,HR,4.0,Premium workplace and design-first culture.,Positive,2024-08-05,AmbitionBox
+CRED,Sakshi,HR,3.6,High expectations but great exposure.,Neutral,2024-08-22,Glassdoor
+CRED,Gauri,Marketing,4.8,Top-notch perks and competitive pay.,Positive,2024-09-22,Indeed
+CRED,Sneha,Design,4.7,Freedom to innovate and own projects.,Positive,2024-09-12,Glassdoor
+CRED,Ananya,Design,1.9,Very long hours during launches.,Negative,2024-09-11,AmbitionBox
+CRED,Kritika,Finance,2.7,Not much appreciation for hard work.,Negative,2024-11-19,Glassdoor
+CRED,Ankit,Marketing,2.4,Too much workload with unclear direction.,Negative,2024-11-21,Glassdoor
+CRED,Ishaan,Tech,3.1,"Challenging goals, but rewarding.",Neutral,2024-11-05,Indeed
+CRED,Kritika,HR,2.1,Too much workload with unclear direction.,Negative,2024-08-28,Glassdoor
+CRED,Aarav,HR,4.4,Inspiring CEO and open communication.,Positive,2024-08-01,AmbitionBox
+CRED,Harsh,Finance,4.0,Talented colleagues and transparent leadership.,Positive,2024-11-05,Glassdoor
+CRED,Simran,Finance,4.0,Premium workplace and design-first culture.,Positive,2024-08-22,Glassdoor
+CRED,Diya,Marketing,4.3,Talented colleagues and transparent leadership.,Positive,2024-08-12,Glassdoor
+CRED,Kavya,Marketing,3.2,"Challenging goals, but rewarding.",Neutral,2024-10-20,Glassdoor
+CRED,Aarav,HR,3.7,"Challenging goals, but rewarding.",Neutral,2024-09-17,AmbitionBox
+CRED,Rohit,HR,2.7,Too much workload with unclear direction.,Negative,2024-10-14,Glassdoor
+CRED,Alok,Marketing,4.2,Top-notch perks and competitive pay.,Positive,2024-10-01,AmbitionBox
+CRED,Isha,Design,3.7,Workload can get intense near deadlines.,Neutral,2024-11-16,AmbitionBox
+CRED,Gauri,Finance,4.8,Inspiring CEO and open communication.,Positive,2024-09-19,Indeed
+CRED,Isha,HR,5.0,Top-notch perks and competitive pay.,Positive,2024-08-26,AmbitionBox
+CRED,Kritika,Finance,4.5,Inspiring CEO and open communication.,Positive,2024-08-22,Indeed
+CRED,Ritu,Marketing,4.9,Inspiring CEO and open communication.,Positive,2024-08-08,Indeed
+CRED,Ishaan,Tech,3.7,"Challenging goals, but rewarding.",Neutral,2024-10-17,AmbitionBox
+CRED,Sarthak,HR,3.2,"Challenging goals, but rewarding.",Neutral,2024-09-03,Glassdoor
+CRED,Mohit,Design,4.9,Premium workplace and design-first culture.,Positive,2024-11-09,Glassdoor
+CRED,Pooja,Tech,2.1,Too much workload with unclear direction.,Negative,2024-09-28,Glassdoor
+CRED,Nikhil,Design,3.6,Amazing peers but average work-life balance.,Neutral,2024-11-28,Indeed
+CRED,Pooja,Marketing,3.7,Limited clarity in cross-functional roles.,Neutral,2024-11-04,Indeed
+CRED,Isha,Marketing,3.7,Workload can get intense near deadlines.,Neutral,2024-11-02,Indeed
+CRED,Aarav,Marketing,2.2,Too much workload with unclear direction.,Negative,2024-11-23,Glassdoor
+CRED,Ritu,HR,2.4,Not much appreciation for hard work.,Negative,2024-09-11,Indeed

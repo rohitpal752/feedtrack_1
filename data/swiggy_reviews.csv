@@ -1,0 +1,56 @@
+Company,Reviewer,Department,Rating,Review,Sentiment,Date,Source
+Swiggy,Anvi,Customer Service,2.4,Stressful targets and poor communication.,Negative,2024-10-15,Glassdoor
+Swiggy,Tanvi,Finance,3.4,Pay is decent but workload fluctuates.,Neutral,2024-10-13,AmbitionBox
+Swiggy,Sarthak,Finance,3.8,Mid-management coordination could improve.,Neutral,2024-10-15,Glassdoor
+Swiggy,Riya,HR,4.9,Good app infrastructure and transparency.,Positive,2024-11-15,Glassdoor
+Swiggy,Aarav,Tech,2.8,Stressful targets and poor communication.,Negative,2024-11-09,Indeed
+Swiggy,Nisha,Customer Service,4.6,Good app infrastructure and transparency.,Positive,2024-10-07,AmbitionBox
+Swiggy,Rachit,Tech,4.4,Dynamic culture with innovative ideas encouraged.,Positive,2024-11-15,Indeed
+Swiggy,Ishaan,Finance,1.9,Unclear growth path in operations.,Negative,2024-09-16,AmbitionBox
+Swiggy,Diya,Customer Service,2.6,Long hours and minimal breaks during rush.,Negative,2024-10-16,Indeed
+Swiggy,Aman,Finance,4.6,Great incentives and team bonding activities.,Positive,2024-08-07,AmbitionBox
+Swiggy,Tanya,Operations,5.0,Good app infrastructure and transparency.,Positive,2024-08-24,Indeed
+Swiggy,Sakshi,Tech,2.6,Attrition is high among field staff.,Negative,2024-11-24,Indeed
+Swiggy,Alok,Operations,4.9,Great incentives and team bonding activities.,Positive,2024-11-26,Indeed
+Swiggy,Avni,Tech,2.1,Attrition is high among field staff.,Negative,2024-08-17,Glassdoor
+Swiggy,Gauri,HR,4.4,Great incentives and team bonding activities.,Positive,2024-11-21,Glassdoor
+Swiggy,Rohit,HR,4.7,Dynamic culture with innovative ideas encouraged.,Positive,2024-08-04,AmbitionBox
+Swiggy,Sarthak,HR,2.7,Limited focus on employee well-being.,Negative,2024-10-19,AmbitionBox
+Swiggy,Sakshi,Tech,3.1,Mid-management coordination could improve.,Neutral,2024-09-13,Glassdoor
+Swiggy,Neha,Customer Service,3.6,Pay is decent but workload fluctuates.,Neutral,2024-10-04,AmbitionBox
+Swiggy,Nisha,Operations,1.8,Unclear growth path in operations.,Negative,2024-10-10,Glassdoor
+Swiggy,Riya,Customer Service,3.2,"Weekend pressure is heavy, weekdays manageable.",Neutral,2024-08-28,Glassdoor
+Swiggy,Trisha,Operations,4.1,Good app infrastructure and transparency.,Positive,2024-08-03,AmbitionBox
+Swiggy,Dev,Operations,4.9,Supportive managers and flexible shifts.,Positive,2024-09-18,Indeed
+Swiggy,Priya,Finance,4.8,Great incentives and team bonding activities.,Positive,2024-08-22,Indeed
+Swiggy,Tanya,Operations,2.5,Stressful targets and poor communication.,Negative,2024-09-20,Indeed
+Swiggy,Chirag,Operations,3.8,Customer escalation handling can be tiring.,Neutral,2024-08-23,Indeed
+Swiggy,Karan,Operations,3.0,Unclear growth path in operations.,Negative,2024-10-02,Indeed
+Swiggy,Sneha,HR,4.0,Good app infrastructure and transparency.,Positive,2024-08-21,Glassdoor
+Swiggy,Aditi,HR,2.4,Unclear growth path in operations.,Negative,2024-10-23,Indeed
+Swiggy,Arjun,Operations,2.5,Long hours and minimal breaks during rush.,Negative,2024-11-03,Glassdoor
+Swiggy,Dev,Operations,4.4,Supportive managers and flexible shifts.,Positive,2024-09-14,Indeed
+Swiggy,Simran,Finance,3.6,Customer escalation handling can be tiring.,Neutral,2024-10-20,AmbitionBox
+Swiggy,Varun,HR,2.6,Attrition is high among field staff.,Negative,2024-08-31,Indeed
+Swiggy,Preeti,Operations,1.8,Limited focus on employee well-being.,Negative,2024-09-25,AmbitionBox
+Swiggy,Gauri,Operations,3.9,Pay is decent but workload fluctuates.,Neutral,2024-08-12,Indeed
+Swiggy,Mohit,HR,3.4,"Weekend pressure is heavy, weekdays manageable.",Neutral,2024-11-05,Glassdoor
+Swiggy,Avni,Customer Service,3.0,Pay is decent but workload fluctuates.,Neutral,2024-09-29,AmbitionBox
+Swiggy,Priya,Finance,3.8,Processes improving but still need structure.,Neutral,2024-08-22,Indeed
+Swiggy,Aditi,Tech,3.4,"Weekend pressure is heavy, weekdays manageable.",Neutral,2024-08-17,AmbitionBox
+Swiggy,Ishaan,Customer Service,2.5,Limited focus on employee well-being.,Negative,2024-10-20,Indeed
+Swiggy,Avni,Tech,4.9,Learning about customer service and logistics.,Positive,2024-08-05,AmbitionBox
+Swiggy,Tanya,Tech,3.1,Pay is decent but workload fluctuates.,Neutral,2024-08-10,Indeed
+Swiggy,Arjun,Operations,3.5,Mid-management coordination could improve.,Neutral,2024-11-17,AmbitionBox
+Swiggy,Sakshi,Finance,4.1,Great incentives and team bonding activities.,Positive,2024-08-20,Glassdoor
+Swiggy,Aarav,Tech,3.2,Pay is decent but workload fluctuates.,Neutral,2024-09-07,Indeed
+Swiggy,Diya,Customer Service,4.4,Great incentives and team bonding activities.,Positive,2024-11-15,Indeed
+Swiggy,Nikhil,HR,3.4,Mid-management coordination could improve.,Neutral,2024-08-11,Indeed
+Swiggy,Nisha,HR,3.9,Pay is decent but workload fluctuates.,Neutral,2024-09-26,Indeed
+Swiggy,Riya,Operations,4.1,Great incentives and team bonding activities.,Positive,2024-10-20,Glassdoor
+Swiggy,Rishabh,Customer Service,4.2,Learning about customer service and logistics.,Positive,2024-10-27,Indeed
+Swiggy,Varun,Operations,2.1,Limited focus on employee well-being.,Negative,2024-08-12,AmbitionBox
+Swiggy,Aditi,Finance,1.9,Limited focus on employee well-being.,Negative,2024-10-22,Glassdoor
+Swiggy,Ananya,Operations,4.5,Learning about customer service and logistics.,Positive,2024-09-25,Indeed
+Swiggy,Trisha,Operations,3.3,"Weekend pressure is heavy, weekdays manageable.",Neutral,2024-08-31,Glassdoor
+Swiggy,Shreya,Tech,4.6,Good app infrastructure and transparency.,Positive,2024-11-16,Indeed
